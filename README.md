@@ -1,4 +1,4 @@
-# World Weather Analysis - David's Norway Spring Skiing Adventure 
+# Norway Spring Skiing Adventure: A World Weather Analysis 
 
 ## Overview of the Analysis
 
